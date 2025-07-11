@@ -1,0 +1,6 @@
+#program for vote eligibility
+age=int(input("enter a number:"))
+if age>=18:
+    print("eligibility for vote",age)
+else:
+    print("sorry!!Not eligible because your age is",age)

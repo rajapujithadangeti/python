@@ -1,0 +1,8 @@
+#write a program to find biggest of 2 numbers
+a=int(input("enter a number:"))
+b=int(input("enter a number"))
+if a>b:
+    print("A is greater:",a)
+else:
+    print("B is greater:",b)
+      

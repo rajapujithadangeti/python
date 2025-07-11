@@ -1,0 +1,12 @@
+a=int(input("enter a number:"))
+b=int(input("enter a number:"))
+print("The addition",a+b)
+print("The subtraction",a-b)
+print("The multiplication",a*b)
+print("The division",a/b)
+print("The floor",a//b)
+print("The modular",a%b)
+print("The power",a**b)
+
+
+      
